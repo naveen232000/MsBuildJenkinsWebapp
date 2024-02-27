@@ -1,0 +1,7 @@
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\msbuildjenkin.exe
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\msbuildjenkin.dll
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\msbuildjenkin.deps.json
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\msbuildjenkin.runtimeconfig.json
+D:\code\msbuildjenkin\msbuildjenkin\obj\Release\net6.0\PubTmp\Out\msbuildjenkin.pdb

@@ -13,7 +13,7 @@ checkout scm
 }
 }
 
-stage('Build and Publish') {
+stages('Build and Publish') {
 steps {
 // Build and publish the ASP.NET Core application
 script {
@@ -23,7 +23,7 @@ sh 'dotnet publish --configuration Release --output bin/publish'
 }
 }
 }
-stage('Deploy to Azure Web App') {
+stages('Deploy to Azure Web App') {
 steps {
 // Deploy to Azure Web App using Azure App Service Deploy plugin
 script {

@@ -6,7 +6,7 @@ ASPNETCORE_ENVIRONMENT = 'Production'
 DOTNET_CLI_TELEMETRY_OPTOUT = '1'
 }
 tages {
-stage('Checkout') {
+stages('Checkout') {
 steps {
 // Checkout source code from Git
 checkout scm
